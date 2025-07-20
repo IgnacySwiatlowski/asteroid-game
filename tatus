@@ -1,0 +1,29 @@
+[33mcommit c965e0948b21db31c1b6867040473956620d891c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: IgnacySwiatlowski <ignacyswiatlowski@gmail.com>
+Date:   Sat Jul 19 17:36:20 2025 +0200
+
+    asteroid border colliison+
+
+[33mcommit 2693fbfdd2672e986e7c10715d4584b88ab84f79[m
+Author: IgnacySwiatlowski <ignacyswiatlowski@gmail.com>
+Date:   Mon Jul 14 20:55:58 2025 +0200
+
+    add collision mechanics
+
+[33mcommit 71b06ee83b6b4e0ae1a2702262e3d4e8462b5079[m
+Author: IgnacySwiatlowski <ignacyswiatlowski@gmail.com>
+Date:   Sat Jul 12 19:23:45 2025 +0200
+
+    movements mechanics
+
+[33mcommit db3c5ab5900e9befdf3c342ab2c0081136d54ffe[m
+Author: IgnacySwiatlowski <ignacyswiatlowski@gmail.com>
+Date:   Fri Jul 11 14:39:21 2025 +0200
+
+    initialize game window
+
+[33mcommit 6f84d5d685f233f9eab5ee903d6baaa538f4ab9a[m
+Author: IgnacySwiatlowski <152688281+IgnacySwiatlowski@users.noreply.github.com>
+Date:   Fri Jul 11 14:42:02 2025 +0200
+
+    Initial commit
